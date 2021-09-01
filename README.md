@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone 👋, I'm Roshini Gupta</h1>
-
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
  
  <h1 align ="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;&center=true&width=180&height=30&size=20;color=red;"></h1>
 
