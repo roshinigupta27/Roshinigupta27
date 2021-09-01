@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **roshinigupta2711@gmail.com**
 
-<h2 align="center">Connect with me on:</h2>
+<h2 align="center" style="color:pink" >Connect with me on:</h2>
 <p align="center">
 <a href="https://twitter.com/roshh27_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshh27_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roshinigupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshinigupta/" height="30" width="40" /></a>
