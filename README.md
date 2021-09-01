@@ -1,8 +1,8 @@
 <h1 align="center">Hello everyone 👋, I'm Roshini Gupta</h1>
-<p>
+
  
- <centre> <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;&center=true&width=180&height=30&size=20;color=red;"></center>
-</p>
+ <h1 align ="center" <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;&center=true&width=180&height=30&size=20;color=red;"></h1>
+
 <h3 align="center">I am a Student, Intern, web developer and I aspire to become a Full stack developer. My interests also lies in AI. I have extensive knowledge of HTML, CSS, JavaScript. Currently pursuing Bachelor of Computer Science degree. I am constantly seeking out new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshinigupta27&label=Profile%20views&color=0e75b6&style=flat" alt="roshinigupta27" /> </p>
