@@ -1,7 +1,5 @@
-<h1 align="center">Hello everyone 👋, I'm Roshini Gupta</h1>
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
- 
- <h1 align ="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;&center=true&width=180&height=30&size=20;color=red;"></h1>
+<h1 align="center">Hello everyone 👋, I'm Roshini Gupta</h1> 
+<h1 align ="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;&center=true&width=180&height=30&size=20;color=red;"></h1>
 
 <h3 align="center">I am a Student, Intern, web developer and I aspire to become a Full stack developer. My interests also lies in AI. I have extensive knowledge of HTML, CSS, JavaScript. Currently pursuing Bachelor of Computer Science degree. I am constantly seeking out new technologies.</h3>
 
@@ -22,6 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+### ⚙️ &nbsp;GitHub Analytics
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
@@ -37,16 +36,6 @@
 </p>
 
 <br>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/roshinigupta27">
-   <img height="200px" width="400px" alt="roshinigupta's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=roshinigupta27&theme=tokyonight"/> &ensp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roshinigupta27&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
-<!-- now -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshinigupta27&" alt="roshinigupta27" /></p>
 <p>Thanks for visiting my profile</p>
