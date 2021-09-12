@@ -1,5 +1,4 @@
 <h1 align="center">Hello everyone 👋, I'm Roshini Gupta</h1>
-<img alt="Custom badge" src="https://img.shields.io/endpoint?color=Connect&label=LinkedIn&logo=LinkedIn&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Froshinigupta27">
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
  
  <h1 align ="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;&center=true&width=180&height=30&size=20;color=red;"></h1>
@@ -31,7 +30,23 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=roshinigupta27&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshinigupta27&theme=react&layout=compact" />
 </p>
+<!-- now -->
+<br>
 
+<a href="https://github.com/roshinigupta27/github-readme-activity-graph"><img alt="roshinigupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roshinigupta27&bg_color=00001A&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=false&theme=tokyonight" /></a>
+</p>
+
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/roshinigupta27">
+   <img height="200px" width="400px" alt="roshinigupta's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=roshinigupta27&theme=tokyonight"/> &ensp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=roshinigupta27&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+<!-- now -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshinigupta27&" alt="roshinigupta27" /></p>
 <p>Thanks for visiting my profile</p>
