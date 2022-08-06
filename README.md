@@ -3,7 +3,7 @@
 
 <h3 align="center">I am a Computer Science graduate '22, Front-end web developer and my interests is inclined towards Data Science too. I am constantly seeking out new technologies. Exploring and Imploring everyday</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshinigupta27&label=Profile%20views&color=0e75b6&style=flat" alt="roshinigupta27" /> </p>
+
 
 - 🔭 I’m currently working on **Frontend Projects**
 
