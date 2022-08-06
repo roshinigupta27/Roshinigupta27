@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone 👋, I'm Roshini Gupta</h1> 
-<h1 align ="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;%20Data%20Science%20Enthusiast%20&center=true&width=180&height=30&size=20;color=red;"></h1>
+
 
 <h3 align="center">I am a Computer Science graduate '22, Front-end web developer and my interests is inclined towards Data Science too. I am constantly seeking out new technologies. Exploring and Imploring everyday</h3>
 
